@@ -6,6 +6,10 @@
 }
 
 body{
-    background-color: var(--cor-do-fundo)
-
+    background-color: var(--cor-do-fundo);
+    color: var(--branco-principal);
+}
+* {
+    margin: 0;
+    padding: 0;
 }
